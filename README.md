@@ -17,7 +17,7 @@
 🔹 **Handwritten Digit Recognition using Neural Networks**  
    - Built a model to recognize handwritten digits using **ANN & Perceptron concepts**.  
    - Trained on the **MNIST dataset** with optimization techniques for better accuracy.  
-   - GitHub Repo:  
+   - GitHub Repo:  https://github.com/Pranjalpranay/Handwritten-Digit-Recognition-Using-Neural-Networks-Perceptron-Concepts
 
 🔹 **Member** - Quantum E-Designing Club, IIT Madras  
 🔹 **Campus Ambassador** - CodeFest '24 | IIT (BHU) Varanasi  
